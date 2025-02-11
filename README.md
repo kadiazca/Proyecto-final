@@ -11,8 +11,7 @@ Al empezar, el jugador verá un panel de control con los siguientes datos:
 - **Costo de pedido:** Cuánto cuesta hacer un pedido para reponer productos.
 - **Costo de almacenamiento:** Cuánto cuesta almacenar una unidad de producto en el inventario por un periodo (ejemplo: por año).
 
-Además, habrá un botón de
-- **"Hacer Pedido"** que el jugador podrá presionar cada vez que quiera hacer un nuevo pedido de productos para reponer el inventario.
+Además, habrá un botón de **"Hacer Pedido"** que el jugador podrá presionar cada vez que quiera hacer un nuevo pedido de productos para reponer el inventario.
   
 Tambien, el juego introduce eventos aleatorios que pueden alterar la gestión de inventarios. Estos eventos simulan situaciones que no se pueden predecir, como un aumento inesperado de la demanda o problemas con el proveedor.
 ### Ejemplos de eventos aleatorios:
