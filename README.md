@@ -21,10 +21,10 @@ Tambien, el juego introduce eventos aleatorios que pueden alterar la gestión de
 ## Objetivo general del proyecto:
 Proporcionar herramientas a creadores, empresas y estudiantes para la comprensión en el manejo y administración óptima de inventarios mediante un programa interactivo de gestión de productos en función de variables definidas.
 
+## Alcance preliminar del proyecto:
+Se quiere crear una herramienta educativa y un juego entretenido. Como alcance inicial nos vamos a centrar en crear una base sólida que simule la gestión de inventarios con decisiones claves y eventos aleatorios, mientras que el objetivo final es llevar a los usuarios a vivir una experiencia fantástica que los ayude a aprender sobre la administración de inventarios de forma divertida.
+
 ## Nombres de los integrantes del grupo:
 - Yazney Alejandra Arenas Garrido
 - Karen Yulieth Diaz Casas
 - Juan Sebestian Villalobos Lopez
-
-## Alcance preliminar del proyecto:
-Se quiere crear una herramienta educativa y un juego entretenido. Como alcance inicial nos vamos a centrar en crear una base sólida que simule la gestión de inventarios con decisiones claves y eventos aleatorios, mientras que el objetivo final es llevar a los usuarios a vivir una experiencia fantástica que los ayude a aprender sobre la administración de inventarios de forma divertida.
